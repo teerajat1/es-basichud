@@ -30,3 +30,10 @@ Browse our Tebex store for premium features and support:
 
 ## Tags
 #FiveM #Gaming #HUD #EYESSTORE #ESBasicHUD
+
+
+There are special notification system that use it to trigger the notification
+
+[1]
+
+   exports[GetCurrentResourceName()]:Notification('NOTIFICATION', 'To purchase the product visit <span style="color: #FF5733;">https://</span><span style="color: #33B1FF;">dark</span><span style="color: #33FF57;">-store</span><span style="color: #FFD833;">.tebex.io</span> you can trigger this notification with export, we are happy and proud to serve you.')
